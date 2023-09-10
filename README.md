@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hdewani&label=Profile%20views&color=0e75b6&style=flat" alt="hdewani" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hdewani" alt="hdewani" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://hitika.vercel.app/](https://hitika.vercel.app/)
+
+- 📫 How to reach me **Hitikadewani06@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hdewani&show_icons=true&theme=dark&locale=en&layout=compact" alt="hdewani" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hdewani&show_icons=true&theme=dark&locale=en" alt="hdewani" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hdewani&theme=dark" alt="hdewani" /></p>
